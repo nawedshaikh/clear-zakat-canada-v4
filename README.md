@@ -1,4 +1,4 @@
-# Clear Zakat Canada v4
+# Maple Zakat Canada v4
 
 React + Vite + TypeScript. No backend, database, account, or Python required.
 
